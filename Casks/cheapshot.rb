@@ -1,6 +1,6 @@
 cask "cheapshot" do
-  version "0.1.6"
-  sha256 "fafc6d7880ffe04da517e7d1b56a087d9d09f65af5cb79cd1ae01d9e805ce401"
+  version "0.1.7"
+  sha256 "3d60eba3733d71d6585abfbb31e6341d9571c281433f5a625dc0fff7cdd9e69b"
 
   url "https://github.com/andremorata/cheapshot/releases/download/v#{version}/cheapshot-#{version}.zip"
   name "cheapshot"
